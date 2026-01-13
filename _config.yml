@@ -1,4 +1,4 @@
 # 配置内置Jekyll主题
-theme: midnight  # 
+theme: Cayman  # 
 title: CKMImageNet  # 替换为你想要的标题（比如“我的数据集展示站”）
 description: A dataset for wireless communication and sensing  # 替换为你的网站介绍（比如“CKMImagenet数据集专属展示”）
