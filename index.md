@@ -6,7 +6,7 @@ layout: default
 # 👋 CKMImageNet Dataset Showcase
 This is my GitHub Pages site for displaying the [CKMImageNet Dataset](https://github.com/zyktzCKM/CKMImageNet).
 
-##❓What is CKM
+# ❓ What Is CKM
 CKM is a site-specific database that provides location-specific channel knowledge. It offers a promising method to enable environment-awareness — this facilitates or even avoids sophisticated real-time CSI acquisition or redundant environment sensing.
 
 ## 📚 Dataset Introduction
