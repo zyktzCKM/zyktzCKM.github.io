@@ -19,7 +19,7 @@ CKMImageNet is a dataset bridging the gap between AI and environment-aware wirel
 4. CKMImageNet pioneers the tight coupling of numerical channel data, binary obstacle matrices, and grayscale CKMs into a unified framework.
 
 ## 📊 Data Presentation
-
+1. Different 
 
 ## ❓ How to use the CKMImageNet dataset?
 
