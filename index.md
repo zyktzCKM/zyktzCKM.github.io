@@ -26,7 +26,7 @@ CKMImageNet is a dataset bridging the gap between AI and environment-aware wirel
 
 ## ❓ How to use the CKMImageNet dataset?
 
-### 1. Normalization Rules for Image Data
+### Normalization Rules for Image Data
 - Channel gain maps: Normalized from **-250 dB ~ -50 dB** to the range of **0 ~ 1**.
 - AoA/AoD maps: Normalized from **-200° ~ 180°** to the range of **0 ~ 1**.
 
