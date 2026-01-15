@@ -23,9 +23,9 @@ CKMImageNet is a dataset bridging the gap between AI and environment-aware wirel
 Below, we present a set of multi-type data for a specific environment — these data are visualized as **heatmaps** to intuitively convey the information in the images.  
 
 Note that in our actual dataset repository, the data is provided in the form of **grayscale images**. This format is chosen because grayscale images exclude any extra irrelevant information, making them ready for direct use in your development or training workflows.
-![CKM Dataset Overview](assets/images/dataset_01.png){: width="600px" align="center"}
-*Figure: Schematic diagram of CKMImageNet dataset structure (from dataset_01.png)*
-
+<div align="center">
+  <img src="assets/images/dataset_01.png" width="600" alt="CKM Dataset Overview">
+</div>
 
 ## ❓ How to use the CKMImageNet dataset?
 
