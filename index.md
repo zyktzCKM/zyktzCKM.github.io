@@ -64,19 +64,33 @@ This Dataset is developed by Southeast University and Purple Mountain Laboratori
 ## 🌐 Our related works
 
 [R1]Y. Zeng et al., "A Tutorial on Environment-Aware Communications via Channel Knowledge Map for 6G," in IEEE Communications Surveys & Tutorials, vol. 26, no. 3, pp. 1478-1519
+
 [R2] X. Xu and Y. Zeng, "How Much Data Is Needed for Channel Knowledge Map Construction?" in IEEE Transactions on Wireless Communications, vol. 23, no. 10, pp. 13011-13021, Oct. 2024.
+
 [R3]Z. Wu, D. Wu, S. Fu, Y. Qiu and Y. Zeng, "CKMImageNet: A Dataset for AI-Based Channel Knowledge Map Toward Environment-Aware Communication and Sensing," in IEEE Transactions on Communications, vol. 73, no. 12, pp. 14430-14443
+
 [R4] D. Wu, Z. Wu, Y. Qiu, S. Fu, and Y. Zeng, “CKMImageNet: A comprehensive dataset to enable channel knowledge map construction via computer vision,” in 2024 IEEE/CIC International Conference on Communications in China (ICCC Workshops), 2024, pp. 114–119.
+
 [R5] K. Li, P. Li, Y. Zeng, and J. Xu, “Channel knowledge map forenvironment-aware communications: EM algorithm for map construction,” in 2022 IEEE Wireless Communications and Networking Confer-ence (WCNC), 2022, pp. 1659–1664.
+
 [R6] S. Fu, Z. Wu, D. Wu and Y. Zeng, "Generative CKM Construction Using Partially Observed Data with Diffusion Model," 2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring), Oslo, Norway, 2025, pp. 1-5
+
 [R7] D. Wu, Y. Zeng, S. Jin, and R. Zhang, “Environment-aware hybrid beamforming by leveraging channel knowledge map,” IEEE Trans. Wireless Commun., 2023.
+
 [R8] Z. Xu, Z. Zhou, D. Wu and Y. Zeng, "Channel Knowledge Map-Enhanced Clutter Suppression for Integrated Sensing and Communication," 2024 IEEE/CIC International Conference on Communications in China (ICCC Workshops), Hangzhou, China, 2024, pp. 90-95.
+
 [R9] Y. Long, Y. Zeng, X. Xu, and Y. Huang, “Environment-Aware Wireless Localization Enabled by Channel Knowledge Map,” IEEE Globecom 2022.
+
 [R10] S. Zeng, X. Xu, Y. Zeng, and F. Liu, “CKM-assisted LoS identification and predictive beamforming for cellular-connected UAV,” IEEE ICC 2023.
+
 [R11] Y. Qiu, D. Wu and Y. Zeng, "CKM-Based Environment-Aware Pilot Reuse and Channel Estimation," 2024 16th International Conference on Wireless Communications and Signal Processing (WCSP), Hefei, China, 2024, pp. 169-174.
+
 [R12] D. Wu, Y. Qiu, Y. Zeng and F. Wen, "Environment-Aware Channel Estimation via Integrating Channel Knowledge Map and Dynamic Sensing Information," in IEEE Wireless Communications Letters, vol. 13, no. 12, pp. 3608-3612, Dec. 2024, doi: 10.1109/LWC.2024.3482357.
+
 [R13] D. Wu and Y. Zeng, "Environment-Aware Coordinated Multi-Point mmWave Beam Alignment Via Channel Knowledge Map," 2023 IEEE International Conference on Communications Workshops (ICC Workshops), Rome, Italy, 2023, pp. 1044-1049, doi: 10.1109/ICCWorkshops57953.2023.10283607.
+
 [R14] Z. Dai, D. Wu, Z. Dong and Y. Zeng, “Prototyping and experimental results for environment-aware millimeter wave beam alignment via channel knowledge map,” in IEEE Transactions on Vehicular Technology, vol. 73, no. 11, pp. 16805-16816, Nov. 2024
+
 [R15] C. Zhang, Z. Zhou, X. Xu, Y. Zeng, Z. Zhang and S. Jin, "Prototyping and Experimental Results for ISAC-based Channel Knowledge Map," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2025.3545785.
 
   
