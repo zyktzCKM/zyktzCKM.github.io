@@ -30,12 +30,15 @@ Note that in our actual dataset repository, the data is provided in the form of 
 ## ❓ How to use the CKMImageNet dataset?
 
 ### Normalization Rules for Image Data
+
 - Channel gain maps: Normalized from **-250 dB ~ -50 dB** to the range of **0 ~ 1**.
+  
 - AoA/AoD maps: Normalized from **-200° ~ 180°** to the range of **0 ~ 1**.
 
 > Note: The value of `-250 dB` for gain maps and `-200°` for angle maps are practically unreachable. They are specifically used to mark **building areas** (distinguishing valid channel data from obstacle regions).
 
 ### Usage of Image Data for AI Training Tasks
+
 Leveraging CKMImageNet’s large-scale, multi-dimensional, and spatially consistent image data enables diverse AI training tasks (aligned with the case studies), addressing key challenges in environment-aware 6G systems, following are some examples:
 
 - **CKM Denoising**  
