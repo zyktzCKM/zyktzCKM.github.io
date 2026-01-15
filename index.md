@@ -55,13 +55,5 @@ Leveraging CKMImageNet’s large-scale, multi-dimensional, and spatially consist
 
 
 
-用Markdown写一段图像数据在AI训练任务中的使用，要求包含图像分类任务
-推荐一些关于图像数据在AI训练任务中使用的优秀案例
-如何确保Markdown中图像数据在AI训练任务中的使用描述准确且具有可读性？
-
-
-
-
-
 ## 🔗 Access the Dataset
 - GitHub Repository: [zyktzCKM/CKMImageNet](https://github.com/zyktzCKM/CKMImageNet)
